@@ -1,0 +1,1 @@
+execute if score @s time matches 7.. run function tf:interaction/night/transition

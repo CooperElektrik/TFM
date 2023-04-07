@@ -1,0 +1,489 @@
+
+    What is this? I don't know
+
+    {
+      "key": "（シルヴィの視線はぼんやりと宙を眺めている。[p_]",
+      "en-US": "(Sylvie is staring blankly into space.[p_]"
+    },
+    {
+      "key": "（様子を伺っていたのが気になったようだ。[p_]",
+      "en-US": "(It seems like my staring bothered her.[p_]"
+    },
+    {
+      "key": "痛いのは…最初に比べればだいぶ慣れました。[p_]",
+      "en-US": "I've gotten used to the pain... Compared to the first time...[p_]"
+    },
+    {
+      "key": "あの、何もしないのですか…？[p_]",
+      "en-US": "Um... Are you not going to do anything...?[p_]"
+    },
+    {
+      "key": "ご命令があれば、できることはしますけど…。[p_]",
+      "en-US": "If you have any orders for me, I will do what I am able to...[p_]"
+    },
+    {
+      "key": "ご主人様のお好きなように。[lr_]",
+      "en-US": "Do as you like, Master. [lr_]"
+    },
+    {
+      "key": "私は奴隷ですから。[p_]",
+      "en-US": "I am a slave, after all.[p_]"
+    },
+    {
+      "key": "無表情…ですか？[p_]",
+      "en-US": "I'm... expressionless?[p_]"
+    },
+    {
+      "key": "すいません、これが癖になってしまってて。[p_]",
+      "en-US": "I'm sorry. Not changing facial expressions has become a habit.[p_]"
+    },
+    {
+      "key": "ご主人様の用意してくださるお食事は、見た目も綺麗ですね。[p_]",
+      "en-US": "The meals Master prepares always look so nice.[p_]"
+    },
+    {
+      "key": "（パンと水に比べればそうだろう。[p_]",
+      "en-US": "(I bet they would, compared to just bread and water.[p_]"
+    },
+    {
+      "key": "心なんて、なければよかったのに…。[p_]",
+      "en-US": "It would have been better if I didn't have a soul...[p_]"
+    },
+    {
+      "key": "ご主人様の望むことなら、私はただ受け入れます。[lr_]",
+      "en-US": "I will accept whatever it is that Master wants to do. [lr_]"
+    },
+    {
+      "key": "拒否権がないのはわかってます。[p_]",
+      "en-US": "I know that I can't resist.[p_]"
+    },
+    {
+      "key": "前のご主人様のような事はなさらないんですか？[p_]",
+      "en-US": "Will you not do things like my previous master did?[p_]"
+    },
+    {
+      "key": "私は力仕事はできないから、叩かれて悲鳴を上げるのが仕事でした。[p_]",
+      "en-US": "I can't do any heavy labor so getting hit and screaming was my duty.[p_]"
+    },
+
+    Pat 2
+
+    {
+      "key": "撫でてる？さすってる？[lr_]",
+      "en-US": "You're stroking my head? Patting my head? [lr_]"
+    },
+    {
+      "key": "よくわからないです…。[p_]",
+      "en-US": "I don't understand...[p_]"
+    },
+    {
+      "key": "（不思議そうな顔をしている。[p_]",
+      "en-US": "(She has a strange expression on her face.[p_]"
+    },
+    {
+      "key": "…何か、意味があるんですか？[p_]",
+      "en-US": "...Is there any meaning in doing this?[p_]"
+    },
+    {
+      "key": "これで、楽しませるような反応はできないと思いますけど…。[p_]",
+      "en-US": "I don't think I can react in a way that will entertain you like this...[p_]"
+    },
+    {
+      "key": "ご主人様がしたいんなら…どうぞ、好きなだけ。[p_]",
+      "en-US": "If this is what Master wants to do... Please, do as you like...[p_]"
+    },
+    {
+      "key": "…楽しいんですか？[p_]",
+      "en-US": "...Is this fun?[p_]"
+    },
+    {
+      "key": "撫で心地が、良いん…ですか？[p_]",
+      "en-US": "Patting my head feels... good?[p_]"
+    },
+    {
+      "key": "よく、わかりません…。[p_]",
+      "en-US": "I don't... understand...[p_]"
+    },
+    {
+      "key": "別に、嫌ではないですけど…。[p_]",
+      "en-US": "I don't... dislike it, but...[p_]"
+    },
+    {
+      "key": "他に私がすることとか、ないんでしょうか？[p_]",
+      "en-US": "Is there nothing else for me to do?[p_]"
+    },
+    {
+      "key": "（シルヴィは窓の外を見ている。[lr_]",
+      "en-US": "(Sylvie is looking out the window. [lr_]"
+    },
+    {
+      "key": "外出した時のことを思い出しているのかもしれない。[p_]",
+      "en-US": "Maybe she's remembering about the time she went out?[p_]"
+    },
+    {
+      "key": "（視線があったがシルヴィは何も言わない。[p_]",
+      "en-US": "(Our eyes meet but Sylvie doesn't say anything.[p_]"
+    },
+    {
+      "key": "ご主人様はお医者様なんですよね。[p_]",
+      "en-US": "Master is a doctor, right?[p_]"
+    },
+    {
+      "key": "…しがない町医者？[lr_]",
+      "en-US": "...Just a humble town doctor? [lr_]"
+    },
+    {
+      "key": "なにか違うんですか？[p_]",
+      "en-US": "Is there a difference?[p_]"
+    },
+    {
+      "key": "ご主人様は…多分、「優しい」んでしょうか？[p_]",
+      "en-US": "Master is... 「kind」, probably?[p_]"
+    },
+    {
+      "key": "また、お買い物にご一緒させてもらえることも、あるんでしょうか？[p_]",
+      "en-US": "Will I have another opportunity to accompany you when you go shopping?[p_]"
+    },
+    {
+      "key": "ああいう外出は初めてだったけど、[lr_]",
+      "en-US": "I've never gone out like that before. [lr_]"
+    },
+    {
+      "key": "たぶん…楽しかったんだと、思います。[p_]",
+      "en-US": "I was... happy, I think.[p_]"
+    },
+    {
+      "key": "…なんでご主人様は私を引き取ってくれたんですか？[p_]",
+      "en-US": "...Why did Master take me in?[p_]"
+    },
+    {
+      "key": "何かお手伝いする事はありませんか？[p_]",
+      "en-US": "Is there anything I can do to help?[p_]"
+    },
+    {
+      "key": "ご主人様に引き取っていただけて、感謝…しています。[lr_]",
+      "en-US": "I'm... grateful that Master took me in. [lr_]"
+    },
+    {
+      "key": "でも、ここの生活は少し、怖いです…。[p_]",
+      "en-US": "But... The way I've been living here is also scary...[p_]"
+    },
+    {
+      "key": "心なんて、なければよかったのに…[p_]",
+      "en-US": "It would have been better if I didn't have a soul...[p_]"
+    },
+    {
+      "key": "私、甘い味は好きです。[lr_]",
+      "en-US": "I... like sweet things. [lr_]"
+    },
+    {
+      "key": "今まであんまり口にしたことはなかったけど。[p_]",
+      "en-US": "Though I haven't been able to eat many until now.[p_]"
+    },
+    {
+      "key": "ご主人様はお仕事以外ではあんまり人と会わないんですね。[p_]",
+      "en-US": "Master doesn't meet many people aside from during work.[p_]"
+    },
+    {
+      "key": "私と出かけると目立ってしまわないですか？[p_]",
+      "en-US": "Won't you stand out if you go out together with me?[p_]"
+    },
+    {
+      "key": "…やっぱり、お医者様でもこの傷跡は消せないんでしょうか。[p_]",
+      "en-US": "...As I thought, even a doctor can't make these scars disappear.[p_]"
+    },
+    {
+      "key": "（髪を通してシルヴィの体温をかすかに感じる。[p_]",
+      "en-US": "(I can just barely feel Sylvie's body heat through her hair.[p_]"
+    },
+    {
+      "key": "（シルヴィは目を閉じて静かにしている。[p_]",
+      "en-US": "(Sylvie closes her eyes and keeps quiet.[p_]"
+    },
+    {
+      "key": "撫で心地が、良いんでしょうか？[lr_]",
+      "en-US": "Stroking my head... feels good? [lr_]"
+    },
+    {
+      "key": "髪は、そんなに綺麗じゃないと思うんですけど…。[p_]",
+      "en-US": "I don't think my hair is that pretty...[p_]"
+    },
+    {
+      "key": "少し、慣れてきたかもしれません。[p_]",
+      "en-US": "I think... I'm starting to get used to this.[p_]"
+    },
+    {
+      "key": "こういう時に取るべき反応がきっとあるんでしょうけど…。[p_]",
+      "en-US": "There must be a proper way to react in a situation like this...[p_]"
+    },
+    {
+      "key": "…物好き、なんですね。[p_]",
+      "en-US": "...You like strange things, don't you?[p_]"
+    },
+    {
+      "key": "こうすることで、私もご主人様のお役に立てているんでしょうか？[p_]",
+      "en-US": "Am I being of use to Master like this?[p_]"
+    },
+    {
+      "key": "すこし、困ってしまいます。[p_]",
+      "en-US": "I... feel slightly troubled.[p_]"
+    },
+    {
+      "key": "どう反応すれば良いんでしょうか…。[p_]",
+      "en-US": "How am I supposed to react...?[p_]"
+    },
+    {
+      "key": "ご主人様？[p_]",
+      "en-US": "Master?[p_]"
+    },
+    {
+      "key": "これが「優しい」ということなんでしょうか？[p_]",
+      "en-US": "Is this what they call 「kindness」?[p_]"
+    },
+    {
+      "key": "なんとも言えない気持ちです。[p_]",
+      "en-US": "It's a feeling I can't put into words...[p_]"
+    },
+    {
+      "key": "…嫌いじゃないかもしれません。[p_]",
+      "en-US": "...I don't dislike it.[p_]"
+    },
+    {
+      "key": "「ありがとうございます」、[lr_]",
+      "en-US": "Is \"Thank you very much\""
+    },
+    {
+      "key": "でいいんでしょうか？[p_]",
+      "en-US": "_ appropriate?[p_]"
+    },
+    {
+      "key": "（シルヴィは何も言わずにじっとしている。[p_]",
+      "en-US": "(Sylvie keeps still without saying anything.[p_]"
+    },
+    {
+      "key": "（沈黙が続くとシルヴィはどこか居心地を悪そうにしている。[p_]",
+      "en-US": "(As silence continues, Sylvie appears to be somewhat uncomfortable.[p_]"
+    },
+    {
+      "key": "…あの、ご用事の方は大丈夫なんでしょうか？[p_]",
+      "en-US": "Are you stressed by work?[p_]"
+    },
+    {
+      "key": "（沈黙に耐えかねたようにシルヴィが呟いた。[p_]",
+      "en-US": "(Sylvie muttered shyly.[p_]"
+    },
+BREAK
+    {
+      "key": "（シルヴィの胸を触ってみる[lr]",
+      "en-US": "(I try touching Sylvie's breasts... [lr]" 
+    },
+    {
+      "key": "…膨らみはわずかで、肉の感触はあまりない。[p]",
+      "en-US": "...But she only has small bulges so there isn't much to feel.[p]"
+    },
+    {
+      "key": "…？[p]",
+      "en-US": "...?[p]"
+    },
+    {
+      "key": "（少し身じろぎをしたが抵抗はなかった[p]",
+      "en-US": "(She stirs slightly, but she doesn't resist.[p]"
+    },
+
+    
+    {
+      "key": "（シルヴィに服をまくりあげるように言うと彼女は何も言わず従った。[lr]",
+      "en-US": "(When I ordered Sylvie to lift up her clothes, she obeyed without saying anything. [lr]"
+    },
+    {
+      "key": "下着は与えられていなかったようで、うぶな恥丘が露わになる。[p]",
+      "en-US": "It seems that she wasn't given any underwear, her mons enters my vision.[p]"
+    },
+    {
+      "key": "（手を伸ばし産毛も生えていないような秘部に触れる。[p]",
+      "en-US": "(I stretch out my hand and begin touching her hairless pubic region.[p]"
+    },
+    {
+      "key": "な、なにを…？[p]",
+      "en-US": "W-What are you...?[p]"
+    },
+    {
+      "key": "（割れ目と豆を優しくなぞり続ける[p]",
+      "en-US": "(I gently rub her vagina and clitoris.[p]"
+    },
+    {
+      "key": "（じっくりと愛撫を続けるとだんだん秘部が湿り気を帯びてくる。[lr]",
+      "en-US": "(Her vagina gradually gets wetter as I continue gently touching her there. [lr]"
+    },
+    {
+      "key": "経験があるのだろうか。[p]",
+      "en-US": "I wonder if she has any experience?[p]"
+    },
+    {
+      "key": "え…？[lr]いや、前のご主人様にこういうことをされたことは…ないです…。[p]",
+      "en-US": "Eh...? [lr]No, my previous master never did anything like... this to me before...[p]"
+    },
+    {
+      "key": "なんだか…変な感じ[p]",
+      "en-US": "This somehow... feels strange...[p]"
+    },
+    {
+      "key": "（だんだんと快感を感じ始めたようだ。[lr]内腿を蜜がつたう。[p]",
+      "en-US": "(It seems like she's beginning to feel pleasure from this. [lr]Her love juices dampen her inner thighs.[p]"
+    },
+    {
+      "key": "（…もう準備はいいだろう[p]",
+      "en-US": "(...This should be enough.[p]"
+    },
+    {
+      "key": "（シルヴィの体から手を離した。[p]",
+      "en-US": "(I remove my hand from Sylvie's body.[p]"
+    },
+    {
+      "key": "…終わりですか？[p]",
+      "en-US": "...Are you finished?[p]"
+    },
+    {
+      "key": "ふぅ…[p]",
+      "en-US": "Phew...[p]"
+    },
+    {
+      "key": "（シルヴィの背後に回り床に手をつかせ、細い片腕を掴む。[p]",
+      "en-US": "(I go behind Sylvie, have her get on all fours, and grab one of her slim arms.[p]"
+    },
+    {
+      "key": "（いきり立った肉棒を小さな尻にこすりつけると、[r]",
+      "en-US": "(As I rub my erect penis against her butt, [r]"
+    },
+    {
+      "key": "掴んだ腕を伝って体がこわばったのを感じる[p]",
+      "en-US": "I can feel her tense up through the arm that I'm holding.[p]"
+    },
+    {
+      "key": "（ゆっくりと、しかし強引にイチモツをねじ込むと少し苦しそうな声が上がった。[p]",
+      "en-US": "(She lets out a slightly pained voice as my penis slowly but forcefully makes its way inside her.[p]"
+    },
+    {
+      "key": "…ん！[p]",
+      "en-US": "...Nn![p]"
+    },
+    {
+      "key": "（秘部からは彼女の純潔を証明する破瓜が控えめに流れている。[p]",
+      "en-US": "(The proof of her chastity begins to slowly trickle out.[p]"
+    },
+    {
+      "key": "（ゆっくりと腰を動かし始める[p]",
+      "en-US": "(I begin to slowly move my hips.[p]"
+    },
+    {
+      "key": "（少女の膣に大人の肉棒が無理に入る様はメリメリと音が聞こえてきそうだが、[r]",
+      "en-US": "(I can almost hear a tearing noise as I force my adult penis into her small vagina, [r]"
+    },
+    {
+      "key": "彼女はほとんど声も上げずに耐えている。[p]",
+      "en-US": "but she endures it without making a single noise.[p]"
+    },
+    {
+      "key": "（話通りなら痛みに耐えるのには慣れているのだろう[p]",
+      "en-US": "(If what they said is true, then she's already used to pain.[p]"
+    },
+    {
+      "key": "（少し腰の動きを緩め、ただ出し入れするだけでなく彼女の腹を擦るように、[lr]",
+      "en-US": "(Rather than just thrust in and out, I position myself [r]so that I'm gently rubbing against her womb, [l]"
+    },
+    {
+      "key": "子宮を優しく小突くように動きに緩急をつける。[p]",
+      "en-US": "and continue.[p]"
+    },
+    {
+      "key": "（しばらく続けると彼女の息使いがだんだん深く大きくなってきた。[p]",
+      "en-US": "(After a while, her breaths became deeper and louder.[p]"
+    },
+    {
+      "key": "ん、なに…これ…？[p]",
+      "en-US": "Mn... What is... this?[p]"
+    },
+    {
+      "key": "（俯いた頭からちらりと覗く耳が赤くなっている。[lr]",
+      "en-US": "(I can see her ears are slowly turning red on her downturned head. [lr]"
+    },
+    {
+      "key": "（痛みに慣れている分、快感を感じる余裕があるようだ。[p]",
+      "en-US": "(She may be used to feeling pain, but it seems like she isn't used to feeling pleasure.[p]"
+    },
+    {
+      "key": "んっ、ふぅっ[p]",
+      "en-US": "Mn... Fuu...[p]"
+    },
+    {
+      "key": "（少しづつペースを上げていく[lr]",
+      "en-US": "(I slowly increase my pace, [lr]"
+    },
+    {
+      "key": "シルヴィの汗ばんだ尻に腰を打ち付ける度に肉のぶつかる音が弾ける。[p]",
+      "en-US": "and a loud noise can be heard as I slap against Sylvie's butt.[p]"
+    },
+    {
+      "key": "（だんだんお互いの息の吐き方が熱を帯びてきた。[p]",
+      "en-US": "(Both our breaths are beginning to get laboured.[p]"
+    },
+    {
+      "key": "やだっ。[lr]なんか、変っ！[p]",
+      "en-US": "No. [lr]Something is... weird![p]"
+    },
+    {
+      "key": "（しばらく続けると未経験の快感にシルヴィは困惑の声を上げ始めた。[p]",
+      "en-US": "(Sylvie starts to make confused noises as she experiences this unknown pleasure.[p]"
+    },
+    {
+      "key": "んんっ！！[lr]",
+      "en-US": "Nnn!! [lr]"
+    },
+    {
+      "key": "あうっああっ！[p]",
+      "en-US": "Auu! Aah![p]"
+    },
+    {
+      "key": "（容赦のない腰つきになるとシルヴィも声を荒げ始める。[p]",
+      "en-US": "(Sylvie raises her voice as I pound her hips relentlessly.[p]"
+    },
+    {
+      "key": "な、何か…上がってくる、[lr]なにっ…これっ！？[p]",
+      "en-US": "No... Something is... coming up... [lr]What... is this!?[p]"
+    },
+    {
+      "key": "（どうやらお互い絶頂が近い。[p]",
+      "en-US": "(It seems like we're both nearing climax.[p]"
+    },
+    {
+      "key": "（さらにペースを上げ最後に強く腰を打ち付ける。[p]",
+      "en-US": "(I increase my pace further and give one last, strong thrust.[p]"
+    },
+    {
+      "key": "んんー！！！[p]",
+      "en-US": "Nnn〜!!![p]"
+    },
+    {
+      "key": "（注がれた白濁の熱でシルヴィも絶頂を迎えたようだ。[p]",
+      "en-US": "(It seems like the warmth of my semen also made Sylvie cum.[p]"
+    },
+    {
+      "key": "（肩を震わせ、膣は深々と突き刺さったペニスをぎゅっと締め上げた。[p]",
+      "en-US": "(Her shoulders are trembling as her vagina tightly wraps around my penis.[p]"
+    },
+    {
+      "key": "はー…はー…[p]",
+      "en-US": "Haa〜... Haa〜...[p]"
+    },
+    {
+      "key": "（しばらく腰を離さずヒクつく肉襞の感覚を楽しみながら余韻に浸った…。[p]",
+      "en-US": "(We stayed like this for a while, with my penis still inside her, basking in the afterglow...[p]"
+    },
+    {
+      "key": "（シルヴィはもう体力の限界のようだ。[lr]",
+      "en-US": "(It seems like Sylvie's body is at its limit. [lr]"
+    },
+    {
+      "key": "（今日の残りはもう休ませよう。[p]",
+      "en-US": "(I'll let her rest for the rest of the day.[p]"
+    },

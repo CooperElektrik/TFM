@@ -1,0 +1,1 @@
+clone 130 170 1 214 0 1 86 0 1 replace move
