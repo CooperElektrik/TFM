@@ -1,0 +1,1 @@
+execute if data storage tf:settings {namePrependText:0} run tellraw @a [{"text": "["}]

@@ -12,6 +12,7 @@ scoreboard players set @s lust 0
 data modify storage tf:data molest set value 0
 data modify storage tf:player.data task set value 0
 scoreboard players set pat increment 0
+scoreboard players set @s trust-internal 0
 function tf:display/clear/bg
 function tf:display/clear/layer1
 function tf:display/clear/layer2

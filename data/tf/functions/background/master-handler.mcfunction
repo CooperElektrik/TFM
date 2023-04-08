@@ -3,8 +3,8 @@
 execute if data storage tf:settings {spacedText:1} run tellraw @s {"text": ""}
 #normal interactions, the namings are fucked to death I know
 execute if score @s interaction matches 1 run function tf:background/forward
-execute if score @s interaction matches 2 run function tf:interaction/intro/accept
-execute if score @s interaction matches 3 run function tf:interaction/intro/decline
+execute if score @s interaction matches 2 run function tf:interaction/intro/choice/accept
+execute if score @s interaction matches 3 run function tf:interaction/intro/choice/decline
 execute if score @s interaction matches 4 run function tf:start
 execute if score @s interaction matches 5 run function tf:interaction/chat/handler
 execute if score @s interaction matches 6 run function tf:interaction/pat/handler
