@@ -17,3 +17,21 @@ data modify storage tf:dialogue.player intro.line12 set value "The man left with
 data modify storage tf:dialogue.player intro.line13 set value "The man left." 
 
 ## Chat
+### Stranger
+data modify storage tf:dialogue.player chat.stranger.line1 set value "Sylvie has nothing to do and just sits there."
+data modify storage tf:dialogue.player chat.stranger.line2 set value "Her eyes met mine as I looked at her"
+data modify storage tf:dialogue.player chat.stranger.line3 set value "There are vivid red wounds all over her pale body."
+data modify storage tf:dialogue.player chat.stranger.line4 set value "After looking more carefully, the wounds don't seem raw so bandaging them isn't necessary."
+data modify storage tf:dialogue.player chat.stranger.line5 set value "It doesn't seem like she intends to continue a conversation."
+data modify storage tf:dialogue.player chat.stranger.line6 set value "Just what kind of life was she living until now?"
+data modify storage tf:dialogue.player chat.stranger.line7 set value "Isn't there something we can talk about?"
+data modify storage tf:dialogue.player chat.stranger.line8 set value "I observe Sylvie's scars..."
+data modify storage tf:dialogue.player chat.stranger.line9 set value "So it's not like she doesn't have anything she dislikes."
+data modify storage tf:dialogue.player chat.stranger.line10 set value "I can see her short and slender body from over her rags."
+data modify storage tf:dialogue.player chat.stranger.line11 set value "She has breathtaking silver hair and calm eyes."
+
+### Acquaintance
+data modify storage tf:dialogue.player chat.acquaintance.line1 set value "Sylvie is staring blankly into space."
+data modify storage tf:dialogue.player chat.acquaintance.line2 set value "Sylvie is staring blankly into space."
+data modify storage tf:dialogue.player chat.acquaintance.line3 set value "It seems like my staring bothered her."
+data modify storage tf:dialogue.player chat.acquaintance.line4 set value "I bet they would, compared to just bread and water."

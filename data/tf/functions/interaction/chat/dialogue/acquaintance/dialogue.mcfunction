@@ -1,0 +1,3 @@
+execute if score chat increment matches 1 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.sylvie chat.duplicate.3dots
+execute if score chat increment matches 2 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.player chat.acquaintance.line1
+execute if score chat increment matches 3 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.sylvie chat.duplicate.somethingwrong

@@ -18,5 +18,4 @@ execute if data storage tf:branch {accept:0} if score @s increment matches 47 ru
 execute if data storage tf:branch {accept:1} if score @s increment matches 51 run function tf:display/clear/layer1 
 execute if data storage tf:branch {accept:1} if score @s increment matches 51 run function tf:display/move/layer2/left-center
 
-execute if data storage tf:branch {accept:1} if score @s increment matches 56.. run function tf:interaction/intro/exit 
 
