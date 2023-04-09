@@ -43,6 +43,6 @@ execute if score pat increment matches 16 run function tf:interaction/pat/choice
 #
 execute if score pat increment matches 17 run tellraw @s {"text": "[Sylvie]","color": "#faa2d4"}
 execute if score pat increment matches 17 run tellraw @s {"text": "Please, do as you wish..."}
-execute if score pat increment matches 18 run function tf:interaction/pat/choice
+execute if score pat increment matches 17 run function tf:interaction/pat/choice
 
-execute if score pat increment matches 18.. run scoreboard players set pat increment 0
+execute if score pat increment matches 17.. run scoreboard players set pat increment 0

@@ -35,3 +35,10 @@ data modify storage tf:dialogue.player chat.acquaintance.line1 set value "Sylvie
 data modify storage tf:dialogue.player chat.acquaintance.line2 set value "Sylvie is staring blankly into space."
 data modify storage tf:dialogue.player chat.acquaintance.line3 set value "It seems like my staring bothered her."
 data modify storage tf:dialogue.player chat.acquaintance.line4 set value "I bet they would, compared to just bread and water."
+
+## Pat
+### Stranger
+data modify storage tf:dialogue.player pat.stranger.line1 set value "I pat Sylvie's head."
+data modify storage tf:dialogue.player pat.stranger.line2 set value "She looks confused."
+data modify storage tf:dialogue.player pat.stranger.line3 set value "There's no particular reaction."
+data modify storage tf:dialogue.player pat.stranger.line4 set value "I can feel her soft hair in my hand."

@@ -1,6 +1,6 @@
-execute if score chat increment matches 1 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.sylvie chat.duplicate.3dots
+execute if score chat increment matches 1 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.sylvie duplicate.3dots
 execute if score chat increment matches 2 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.player chat.stranger.line1
-execute if score chat increment matches 3 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.sylvie chat.duplicate.somethingwrong
+execute if score chat increment matches 3 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.sylvie duplicate.somethingwrong
 execute if score chat increment matches 4 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.player chat.stranger.line2
 execute if score chat increment matches 5 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.player chat.stranger.line3
 execute if score chat increment matches 6 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.sylvie chat.stranger.line1
@@ -23,5 +23,5 @@ execute if score chat increment matches 22 run data modify storage tf:player.dat
 execute if score chat increment matches 23 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.player chat.stranger.line9
 execute if score chat increment matches 24 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.player chat.stranger.line10
 execute if score chat increment matches 25 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.player chat.stranger.line11
-execute if score chat increment matches 26 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.sylvie chat.duplicate.somethingwrong
+execute if score chat increment matches 26 run data modify storage tf:player.data dialogue.current set from storage tf:dialogue.sylvie duplicate.somethingwrong
 execute if score chat increment matches 26.. run scoreboard players set chat increment 0

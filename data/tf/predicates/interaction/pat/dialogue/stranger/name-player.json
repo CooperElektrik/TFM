@@ -1,0 +1,54 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:value_check",
+        "value": {
+          "type": "minecraft:score",
+          "target": {
+            "type": "minecraft:fixed",
+            "name": "pat"
+          },
+          "score": "increment"
+        },
+        "range": 1
+      },
+      {
+        "condition": "minecraft:value_check",
+        "value": {
+          "type": "minecraft:score",
+          "target": {
+            "type": "minecraft:fixed",
+            "name": "pat"
+          },
+          "score": "increment"
+        },
+        "range": 6
+      },
+      {
+        "condition": "minecraft:value_check",
+        "value": {
+          "type": "minecraft:score",
+          "target": {
+            "type": "minecraft:fixed",
+            "name": "pat"
+          },
+          "score": "increment"
+        },
+        "range": 8
+      },
+      {
+        "condition": "minecraft:value_check",
+        "value": {
+          "type": "minecraft:score",
+          "target": {
+            "type": "minecraft:fixed",
+            "name": "pat"
+          },
+          "score": "increment"
+        },
+        "range": 16
+      }
+    ]
+  }
+  

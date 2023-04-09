@@ -7,19 +7,7 @@
           "type": "minecraft:score",
           "target": {
             "type": "minecraft:fixed",
-            "name": "chat"
-          },
-          "score": "increment"
-        },
-        "range": 2
-      },
-      {
-        "condition": "minecraft:value_check",
-        "value": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "chat"
+            "name": "pat"
           },
           "score": "increment"
         },
@@ -31,11 +19,11 @@
           "type": "minecraft:score",
           "target": {
             "type": "minecraft:fixed",
-            "name": "chat"
+            "name": "pat"
           },
           "score": "increment"
         },
-        "range": 5
+        "range": 6
       },
       {
         "condition": "minecraft:value_check",
@@ -43,7 +31,7 @@
           "type": "minecraft:score",
           "target": {
             "type": "minecraft:fixed",
-            "name": "chat"
+            "name": "pat"
           },
           "score": "increment"
         },
@@ -55,11 +43,11 @@
           "type": "minecraft:score",
           "target": {
             "type": "minecraft:fixed",
-            "name": "chat"
+            "name": "pat"
           },
           "score": "increment"
         },
-        "range": 11
+        "range": 10
       },
       {
         "condition": "minecraft:value_check",
@@ -67,7 +55,7 @@
           "type": "minecraft:score",
           "target": {
             "type": "minecraft:fixed",
-            "name": "chat"
+            "name": "pat"
           },
           "score": "increment"
         },
@@ -79,48 +67,35 @@
           "type": "minecraft:score",
           "target": {
             "type": "minecraft:fixed",
-            "name": "chat"
+            "name": "pat"
+          },
+          "score": "increment"
+        },
+        "range": 14
+      },
+      {
+        "condition": "minecraft:value_check",
+        "value": {
+          "type": "minecraft:score",
+          "target": {
+            "type": "minecraft:fixed",
+            "name": "pat"
+          },
+          "score": "increment"
+        },
+        "range": 16
+      },
+      {
+        "condition": "minecraft:value_check",
+        "value": {
+          "type": "minecraft:score",
+          "target": {
+            "type": "minecraft:fixed",
+            "name": "pat"
           },
           "score": "increment"
         },
         "range": 17
-      },
-      {
-        "condition": "minecraft:value_check",
-        "value": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "chat"
-          },
-          "score": "increment"
-        },
-        "range": 18
-      },
-      {
-        "condition": "minecraft:value_check",
-        "value": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "chat"
-          },
-          "score": "increment"
-        },
-        "range": 23
-      },
-      {
-        "condition": "minecraft:value_check",
-        "value": {
-          "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "chat"
-          },
-          "score": "increment"
-        },
-        "range": 24
       }
     ]
-  }
-  
+}

@@ -35,7 +35,32 @@ data modify storage tf:dialogue.sylvie chat.acquaintance.line11 set value "I kno
 data modify storage tf:dialogue.sylvie chat.acquaintance.line12 set value "Will you not do things like my previous master did?"
 data modify storage tf:dialogue.sylvie chat.acquaintance.line13 set value "I can't do any heavy labor so getting hit and screaming was my duty."
 
+## Pat
+### Stranger
+data modify storage tf:dialogue.sylvie pat.stranger.line1 set value "...Um, what are you doing?"
+data modify storage tf:dialogue.sylvie pat.stranger.line2 set value "Are you patting my head?"
+data modify storage tf:dialogue.sylvie pat.stranger.line3 set value "That's fine, but..."
+data modify storage tf:dialogue.sylvie pat.stranger.line4 set value "...Is there any meaning in doing this?"
+data modify storage tf:dialogue.sylvie pat.stranger.line5 set value "I don't... really understand..."
+data modify storage tf:dialogue.sylvie pat.stranger.line6 set value "...Is this... fun?"
+data modify storage tf:dialogue.sylvie pat.stranger.line7 set value "Please, do as you wish..."
 
 ## Duplicates
-data modify storage tf:dialogue.sylvie chat.duplicate.3dots set value "..."
-data modify storage tf:dialogue.sylvie chat.duplicate.somethingwrong set value "...Is there something wrong?"
+data modify storage tf:dialogue.sylvie duplicate.3dots set value "..."
+data modify storage tf:dialogue.sylvie duplicate.3dotsqm set value "...?"
+data modify storage tf:dialogue.sylvie duplicate.somethingwrong set value "...Is there something wrong?"
+## Feeling towards player
+data modify storage tf:sylvie.data feeling.stranger set value "Sylvie still thinks of you as a stranger."
+data modify storage tf:sylvie.data feeling.acquaintance set value "Sylvie recognizes you as an acquaintance."
+data modify storage tf:sylvie.data feeling.trust set value "Sylvie is beginning to trust you as someone who lives with her."
+data modify storage tf:sylvie.data feeling.enjoy set value "Sylvie enjoys the time she spends together with you."
+data modify storage tf:sylvie.data feeling.favor set value "Sylvie favors you greatly."
+data modify storage tf:sylvie.data feeling.heart set value "Sylvie thinks about you from the bottom of her heart."
+data modify storage tf:sylvie.data feeling.panic set value "Sylvie looks like she will have a panic attack if she is separated from you for even a single day."
+data modify storage tf:sylvie.data feeling.anxious set value "Sylvie will feel incredibly anxious if you aren't nearby."
+data modify storage tf:sylvie.data feeling.without set value "Sylvie thinks that she cannot live without you."
+data modify storage tf:sylvie.data feeling.nothingelse set value "Sylvie thinks of nothing else but you now."
+## Mood
+data modify storage tf:sylvie.data mood.calm set value "Calm"
+data modify storage tf:sylvie.data mood.calm set value "Normal"
+data modify storage tf:sylvie.data mood.calm set value "Horny"

@@ -1,0 +1,8 @@
+data modify storage tf:dialogue.sylvie char.name set value "Sylvie"
+data modify storage tf:dialogue.other char.name.ferrum1 set value "Suspicious Man"
+data modify storage tf:dialogue.other char.name.ferrum2 set value "Ferrum"
+data modify storage tf:dialogue.other char.name.aurelia1 set value "Odd Shopkeeper"
+data modify storage tf:dialogue.other char.name.aurelia2 set value "Aurelia"
+data modify storage tf:dialogue.other char.name.nephy1 set value "Odd Waitress"
+data modify storage tf:dialogue.other char.name.nephy2 set value "Nephy"
+data modify storage tf:dialogue.other char.name.lively set value "Odd, lively girl"

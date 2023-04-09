@@ -1,0 +1,1 @@
+tellraw @a {"text": "[Japanese - 日本語]","color": "green","clickEvent": {"action": "run_command","value": "/function tf:dialogues/lang/jp/add"}}
