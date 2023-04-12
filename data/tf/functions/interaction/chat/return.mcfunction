@@ -1,4 +1,4 @@
-function tf:background/inventory/return
 data modify storage tf:player.data name.current set value -
 scoreboard players add @s time 1
+execute unless score @s time matches 7 run function tf:background/inventory/return
 function tf:background/time

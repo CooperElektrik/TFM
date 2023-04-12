@@ -1,7 +1,6 @@
 data modify storage tf:player.data task set value 0
+function tf:background/inventory/return-all
 item replace entity @s hotbar.4 with air
-item replace entity @s hotbar.1 with map{display:{Name:'{"text":"Chat"}'}}
-item replace entity @s hotbar.2 with map{display:{Name:'{"text":"Pat head"}'}}
 function tf:display/clear/layer2
 function tf:display/char/sylvie-sit
 function tf:display/bg/room

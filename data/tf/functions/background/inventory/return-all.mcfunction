@@ -1,3 +1,4 @@
+data modify storage tf:player.data storage set value 0
 item replace entity @s hotbar.0 from entity @s inventory.0
 item replace entity @s hotbar.1 from entity @s inventory.1
 item replace entity @s hotbar.2 from entity @s inventory.2

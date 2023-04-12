@@ -80,6 +80,7 @@ execute if score @s increment matches 36 run tellraw @s {"text": "The clinic is 
 execute if score @s increment matches 37 run tellraw @s {"text": "[Sylvie]","color": "#faa2d4"}
 execute if score @s increment matches 37 run tellraw @s {"text": "...If that is the case, I will gladly accept this room."}
 execute if score @s increment matches 38 run tellraw @s {"text": "Good night, Master."}
+execute if score @s increment matches 39 if data storage tf:branch {meal:0} run function tf:interaction/night/day0/exit
 execute if data storage tf:branch {meal:1} if score @s increment matches 39 run tellraw @s {"text": "...Um, Master?"}
 execute if data storage tf:branch {meal:1} if score @s increment matches 40 run tellraw @s {"text": "I... What will happen to me from now on?"}
 execute if data storage tf:branch {meal:1} if score @s increment matches 41 run tellraw @s {"text": "Will I... Will I have painful and terrible things done to me?"}
