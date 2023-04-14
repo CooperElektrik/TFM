@@ -53,9 +53,9 @@ execute as @a[nbt={SelectedItem:{id:"minecraft:map",tag:{display:{Name:'{"text":
 #not holding a map
 execute as @a[nbt=!{SelectedItem:{id:"minecraft:map"}}] run scoreboard players set @s interaction 0
 
-execute as @a[scores={p-interact=1..}] run function tf:background/master-handler
+execute as @a[scores={p-interact=1..}] run function tf:system/master-handler
 scoreboard players set @a p-interact 0
 clear @a filled_map
 
 #loop
-schedule function tf:background/interaction 1t
+schedule function tf:system/interaction 1t

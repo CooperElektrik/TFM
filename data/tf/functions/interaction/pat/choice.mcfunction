@@ -5,4 +5,4 @@ execute unless score @s time matches 7 run item replace entity @s hotbar.4 with 
 
 data modify storage tf:player.data storage set value 1
 
-function tf:background/time
+function tf:system/time

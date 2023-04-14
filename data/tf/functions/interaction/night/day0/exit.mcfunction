@@ -1,5 +1,5 @@
 data modify storage tf:player.data task set value 0
-function tf:background/inventory/return-all
+function tf:system/inventory/return-all
 item replace entity @s hotbar.4 with air
 function tf:display/clear/layer2
 function tf:display/char/sylvie-sit
