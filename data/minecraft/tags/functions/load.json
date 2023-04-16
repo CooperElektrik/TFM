@@ -1,5 +1,7 @@
 {
     "values":[
+      "system:init",
+      "chat.int:init",
       "tf:init"
     ]
   }

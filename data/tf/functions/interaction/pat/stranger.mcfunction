@@ -1,4 +1,4 @@
-execute if data storage tf:player.data {storage:0} run function tf:system/inventory/store
+execute if data storage tf:player.data {storage:0} run function system:inventory/store
 
 execute if score pat increment matches 1 run tellraw @s {"text":"[]","color": "green"}
 execute if score pat increment matches 1 run tellraw @s {"text": "I pat Sylvie's head.","italic": true}

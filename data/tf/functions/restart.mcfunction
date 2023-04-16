@@ -21,4 +21,5 @@ function tf:display/clear/layer2
 function tf:display/clear/layer3
 function tf:display/clear/layer4
 function tf:display/clear/layer5
-tellraw @s {"text": "RESET!","color": "green"}
+tellraw @s {"text": "Reset.","color": "white"}
+execute if data storage tf:settings {chatInteraction:1} run tellraw @s {"text": "[START]","color": "gold","clickEvent": {"action": "run_command","value": "/function tf:start"}}

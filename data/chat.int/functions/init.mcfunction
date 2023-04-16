@@ -1,0 +1,1 @@
+tellraw @a {"text": "Chat Interaction functions initialised."}

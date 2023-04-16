@@ -32,9 +32,8 @@ data modify storage tf:dialogue.player chat.stranger.line11 set value "She has b
 
 ### Acquaintance
 data modify storage tf:dialogue.player chat.acquaintance.line1 set value "Sylvie is staring blankly into space."
-data modify storage tf:dialogue.player chat.acquaintance.line2 set value "Sylvie is staring blankly into space."
-data modify storage tf:dialogue.player chat.acquaintance.line3 set value "It seems like my staring bothered her."
-data modify storage tf:dialogue.player chat.acquaintance.line4 set value "I bet they would, compared to just bread and water."
+data modify storage tf:dialogue.player chat.acquaintance.line2 set value "It seems like my staring bothered her."
+data modify storage tf:dialogue.player chat.acquaintance.line3 set value "I bet they would, compared to just bread and water."
 
 ## Pat
 ### Stranger

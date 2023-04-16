@@ -2,7 +2,7 @@
 #this will check for a setting called "spacedText", abd return an empty string
 execute if data storage tf:settings {spacedText:1} run tellraw @s {"text": ""}
 #normal interactions, the namings are fucked to death I know
-execute if score @s interaction matches 1 run function tf:system/forward
+execute if score @s interaction matches 1 run function system:forward
 execute if score @s interaction matches 2 run function tf:interaction/intro/choice/accept
 execute if score @s interaction matches 3 run function tf:interaction/intro/choice/decline
 execute if score @s interaction matches 4 run function tf:start

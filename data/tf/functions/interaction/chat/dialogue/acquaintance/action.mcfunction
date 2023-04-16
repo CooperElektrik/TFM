@@ -1,0 +1,2 @@
+execute if predicate tf:interaction/chat/dialogue/acquaintance/store run function system:inventory/store
+execute if predicate tf:interaction/chat/dialogue/acquaintance/return run function tf:interaction/chat/return
