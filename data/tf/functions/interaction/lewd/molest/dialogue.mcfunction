@@ -5,7 +5,7 @@ execute if data storage tf:data {molest:0} if score @s increment matches 3 run t
 execute if data storage tf:data {molest:0} if score @s increment matches 3 run tellraw @s {"text": "...?"}
 execute if data storage tf:data {molest:0} if score @s increment matches 4 run tellraw @s {"text": "[]","color": "green"}
 execute if data storage tf:data {molest:0} if score @s increment matches 4 run tellraw @s {"text": "She stirs slightly, but she doesn't resist.","italic": true}
-execute if data storage tf:data {molest:0} if score @s increment matches 5 run function tf:interaction/molest/exit/handler
+execute if data storage tf:data {molest:0} if score @s increment matches 5 run function tf:interaction/lewd/molest/exit/handler
 #exit
 
 execute if data storage tf:data {molest:1} if score @s increment matches 1 run tellraw @s {"text": "[]","color": "green"}
