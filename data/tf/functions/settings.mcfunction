@@ -19,7 +19,6 @@ data modify storage tf:settings namePrependText set value 0
 #Currently does nothing
 data modify storage tf:settings renderDisplay set value 1
 #Uses the chat box to interact with the game. Disables message history
-#Currently does nothing
 data modify storage tf:settings chatInteraction set value 0
 #Switch to an experimental optimisation mode.
 #Currently does nothing
@@ -28,3 +27,5 @@ data modify storage tf:settings aggressiveOpts set value 0
 #On potatoes and really weak servers, it's best to just set renderDisplay to 0.
 #Currently does nothing
 data modify storage tf:settings lowResMK128 set value 0
+# Do not increment time, for debugging only
+data modify storage tf:settings noTimeIncrement set value 0

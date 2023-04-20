@@ -53,6 +53,7 @@ execute as @a[nbt={SelectedItem:{id:"minecraft:map",tag:{display:{Name:'{"text":
 #not holding a map
 execute as @a[nbt=!{SelectedItem:{id:"minecraft:map"}}] run scoreboard players set @s interaction 0
 
+data modify storage tf:player.data dialogue.current set value ""
 execute as @a[scores={p-interact=1..}] run function system:master-handler
 scoreboard players set @a p-interact 0
 clear @a filled_map

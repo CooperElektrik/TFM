@@ -23,6 +23,18 @@
           },
           "score": "increment"
         },
+        "range": {"min": 3,"max": 6}
+      },
+      {
+        "condition": "minecraft:value_check",
+        "value": {
+          "type": "minecraft:score",
+          "target": {
+            "type": "minecraft:fixed",
+            "name": "chat"
+          },
+          "score": "increment"
+        },
         "range": 8
       },
       {
