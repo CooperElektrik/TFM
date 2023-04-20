@@ -28,3 +28,5 @@ data modify storage tf:settings aggressiveOpts set value 0
 #On potatoes and really weak servers, it's best to just set renderDisplay to 0.
 #Currently does nothing
 data modify storage tf:settings lowResMK128 set value 0
+#Use normal TF behaviour (update dialogues after a night)
+data modify storage tf:settings enableDelayedUpdate set value 1

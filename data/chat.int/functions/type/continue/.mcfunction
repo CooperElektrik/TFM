@@ -1,0 +1,1 @@
+tellraw @a {"text": "[Continue]","color": "gold","clickEvent": {"action": "run_command","value": "/function chat.int:type/continue/action"}}
