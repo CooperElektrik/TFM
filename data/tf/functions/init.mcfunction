@@ -7,4 +7,5 @@ execute if data storage tf:settings {renderDisplay:1} run tellraw @a {"text": "D
 execute if data storage tf:settings {chatInteraction:1} run tellraw @a {"text": "Chat Interaction is enabled. Chat History is disabled. Debugging is disabled.","color": "aqua"}
 execute if data storage tf:settings {aggressiveOpts:1} run tellraw @a {"text": "Aggressive Optimisation is enabled. May break things.","color": "aqua"}
 execute if data storage tf:settings {lowResMK128:1} run tellraw @a {"text": "Display Downscaling is enabled. Still requires an area of 256x170.","color": "aqua"}
+execute if data storage tf:settings {enableDelayedUpdate:0} run tellraw @a {"text": "Delayed update disabled.","color": "aqua"}
 tellraw @a {"text": "----- End of TF message -----","color": "red"}

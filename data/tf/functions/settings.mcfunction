@@ -29,3 +29,5 @@ data modify storage tf:settings aggressiveOpts set value 0
 data modify storage tf:settings lowResMK128 set value 0
 # Do not increment time, for debugging only
 data modify storage tf:settings noTimeIncrement set value 0
+#Use normal TF behaviour (update dialogues after a night)
+data modify storage tf:settings enableDelayedUpdate set value 1
