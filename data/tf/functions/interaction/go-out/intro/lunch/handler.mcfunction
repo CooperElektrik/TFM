@@ -1,2 +1,1 @@
-function tf:interaction/go-out/intro/lunch/dialogue
-function tf:interaction/go-out/intro/lunch/action
+function tf:interaction/go-out/intro/lunch/dialogue/handler
