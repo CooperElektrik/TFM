@@ -7,3 +7,4 @@ data/tf/functions/dialogues/lang/en/cache
 data/tf/functions/dialogues/lang/jp/cache
 README.md
 .vscode/settings.json
+.vscode/launch.json
