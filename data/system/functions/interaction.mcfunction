@@ -3,7 +3,7 @@ execute as @a[nbt={SelectedItem:{id:"minecraft:map",tag:{display:{Name:'{"text":
 
 execute as @a[nbt={SelectedItem:{id:"minecraft:map",tag:{display:{Name:'{"text":"Take the girl"}'}}}}] run scoreboard players set @s interaction 2
 
-execute as @a[nbt={SelectedItem:{id:"minecraft:map",tag:{display:{Name:'{"text":"Decline"}'}}}}] run scoreboard players set @s interaction 3
+execute as @a[nbt={SelerctedItem:{id:"minecraft:map",tag:{display:{Name:'{"text":"Decline"}'}}}}] run scoreboard players set @s interaction 3
 
 execute as @a[nbt={SelectedItem:{id:"minecraft:map",tag:{display:{Name:'{"text":"Start"}'}}}}] run scoreboard players set @s interaction 4
 
