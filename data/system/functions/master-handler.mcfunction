@@ -25,6 +25,6 @@ execute if score @s interaction matches 20 run function tf:interaction/intro/nig
 execute if score @s interaction matches 21 run function tf:interaction/intro/night/day0/choice/0/small
 execute if score @s interaction matches 22 run function tf:interaction/intro/night/day0/choice/1/assure
 execute if score @s interaction matches 23 run function tf:interaction/intro/night/day0/choice/1/ignore
-execute if score @s interaction matches 24 run function tf:interaction/go-out/intro/lunch/sandwich
-execute if score @s interaction matches 25 run function tf:interaction/go-out/intro/lunch/pancake
+execute if score @s interaction matches 24 run function tf:interaction/go-out/intro/lunch/choice/sandwich
+execute if score @s interaction matches 25 run function tf:interaction/go-out/intro/lunch/choice/pancake
 execute if score @s interaction matches 26 run function tf:interaction/pat/return

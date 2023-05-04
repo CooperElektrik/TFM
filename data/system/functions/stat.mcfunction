@@ -1,0 +1,5 @@
+execute store result storage system:stat trust int 1 run scoreboard players get @s trust
+execute store result storage system:stat friendship int 1 run scoreboard players get @s friendship
+execute store result storage system:stat lust int 1 run scoreboard players get @s lust
+execute store result storage system:stat intimacy int 1 run scoreboard players get @s intimacy
+title @a actionbar [{"text":"[Trust]: ","color": "#5cb8ff"},{"storage":"system:stat","nbt":"trust","color": "white"},{"text": " ; "},{"text": "[Friendship]: ","color": "#75f07a"},{"storage":"system:stat","nbt":"friendship","color": "white"},{"text": " ; "},{"text": "[Lust]: ","color": "#9666ff"},{"storage":"system:stat","nbt":"lust","color": "white"},{"text": " ; "},{"text": "[Intimacy]: ","color": "#ff80df"},{"storage":"system:stat","nbt":"intimacy","color": "white"}]

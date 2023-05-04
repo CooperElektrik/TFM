@@ -23,7 +23,7 @@
           },
           "score": "increment"
         },
-        "range": {"min": 3,"max": 6}
+        "range": {"min": 4,"max": 7}
       },
       {
         "condition": "minecraft:value_check",
@@ -35,7 +35,7 @@
           },
           "score": "increment"
         },
-        "range": 8
+        "range": 9
       },
       {
         "condition": "minecraft:value_check",
@@ -47,7 +47,7 @@
           },
           "score": "increment"
         },
-        "range": 10
+        "range": 11
       },
       {
         "condition": "minecraft:value_check",
@@ -59,7 +59,7 @@
           },
           "score": "increment"
         },
-        "range": 12
+        "range": {"min":13,"max": 14}
       },
       {
         "condition": "minecraft:value_check",
@@ -71,7 +71,7 @@
           },
           "score": "increment"
         },
-        "range": 15
+        "range": {"min": 16,"max": 18}
       }
     ]
 }
