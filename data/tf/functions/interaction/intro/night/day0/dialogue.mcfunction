@@ -2,10 +2,7 @@ execute if score @s increment matches 1 run tellraw @s {"text": "[]","color": "g
 execute if score @s increment matches 1 run tellraw @s {"text": "The sun has already set.","italic": true}
 execute if score @s increment matches 2 run tellraw @s {"text": "I guess I'll make dinner soon...","italic": true}
 execute if score @s increment matches 3 run tellraw @s {"text": "I tell Sylvie to sit at the table.","italic": true}
-execute if score @s increment matches 3 run function tf:display/clear/all
-execute if score @s increment matches 3 run function tf:display/bg/d-home-night
-execute if score @s increment matches 3 run function tf:display/char/sylvie-dinner
-execute if score @s increment matches 3 run function tf:display/object/table-a
+
 execute if score @s increment matches 4 run tellraw @s {"text": "[Sylvie]","color": "#faa2d4"}
 execute if score @s increment matches 4 run tellraw @s {"text": "Dinner... Is it fine for me to eat even though I haven't screamed?"}
 execute if score @s increment matches 5 run tellraw @s {"text": "Master is very compassionate."}
