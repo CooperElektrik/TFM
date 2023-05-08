@@ -1,0 +1,1 @@
+execute unless data storage tf:player.data {task:"out.alone"} run function tf:interaction/go-out/alone/morning/choice
