@@ -22,7 +22,7 @@ data modify storage tf:settings renderDisplay set value 1
 data modify storage tf:settings chatInteraction set value 0
 #Switch to an experimental optimisation mode.
 #Currently does nothing
-data modify storage tf:settings aggressiveOpts set value 0
+data modify storage tf:settings performanceMode set value 0
 #Lowers the horizontal resolution to 128px.
 #On potatoes and really weak servers, it's best to just set renderDisplay to 0.
 #Currently does nothing
@@ -31,3 +31,5 @@ data modify storage tf:settings lowResMK128 set value 0
 data modify storage tf:settings noTimeIncrement set value 0
 #Use normal TF behaviour (update dialogues after a night)
 data modify storage tf:settings enableDelayedUpdate set value 1
+#Force better chat visibility
+data modify storage tf:settings enforceChatVisibility set value 0

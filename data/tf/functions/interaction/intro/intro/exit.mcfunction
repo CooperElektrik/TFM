@@ -3,7 +3,6 @@ item replace entity @s hotbar.4 with air
 item replace entity @s hotbar.1 with map{display:{Name:'{"text":"Chat"}'}}
 item replace entity @s hotbar.2 with map{display:{Name:'{"text":"Pat head"}'}}
 item replace entity @s hotbar.7 with map{display:{Name:'{"text":"Molest"}'}}
-data modify storage tf:player.data name.current set value -
 function tf:display/clear/all
 function tf:display/clear/layer2
 function tf:display/char/sylvie-sit

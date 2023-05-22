@@ -1,0 +1,1 @@
+tellraw @a {"text": "[Vietnamese - Tiếng Việt]","color": "green","clickEvent": {"action": "run_command","value": "/function tf:dialogues/lang/vn/add"}}
