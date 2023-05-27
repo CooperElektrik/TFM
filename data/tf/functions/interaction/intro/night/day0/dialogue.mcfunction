@@ -11,7 +11,7 @@ execute if score @s increment matches 7 run tellraw @s {"text":"[]","color": "gr
 execute if score @s increment matches 7 run tellraw @s {"text": "Now, what shall I do about Sylvie's dinner?","italic": true}
 execute if score @s increment matches 7 run tellraw @s {"text": "[The same meal as mine]","color": "green"}
 execute if score @s increment matches 7 run tellraw @s {"text": "[Smallest meal for her]","color": "red"}
-execute if score @s increment matches 7 run function tf:interaction/intro/night/day0/choice/0/0
+execute if score @s increment matches 7 run function tf:interaction/intro/night/day0/choice/0/handler
 
 # Branch out here, bad option here
 execute if data storage tf:branch {meal:0} if score @s increment matches 8 run tellraw @s {"text":"[]","color": "green"}
@@ -85,7 +85,7 @@ execute if data storage tf:branch {meal:1} if score @s increment matches 42 run 
 execute if data storage tf:branch {meal:1} if score @s increment matches 42 run tellraw @s {"text": "She seems to think there's an ulterior motive behind the way she's being treated.","italic": true}
 execute if data storage tf:branch {meal:1} if score @s increment matches 42 run tellraw @s {"text": "[I don't do things like that]","color": "green"}
 execute if data storage tf:branch {meal:1} if score @s increment matches 42 run tellraw @s {"text": "[Quietly leaves the room]","color": "red"}
-execute if data storage tf:branch {meal:1} if score @s increment matches 42 run function tf:interaction/intro/night/day0/choice/1/1
+execute if data storage tf:branch {meal:1} if score @s increment matches 42 run function tf:interaction/intro/night/day0/choice/1/handler
 
 # Branch here
 

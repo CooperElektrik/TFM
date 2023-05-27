@@ -1,0 +1,86 @@
+{
+    "condition": "alternative",
+    "terms": [
+        {
+            "condition": "minecraft:value_check",
+            "value": {
+                "type" : "score",
+                "target": "this",
+                "score": "increment"
+            },
+            "range": 4
+        },
+        {
+            "condition": "minecraft:value_check",
+            "value": {
+                "type" : "score",
+                "target": "this",
+                "score": "increment"
+            },
+            "range": 13
+        },
+        {
+            "condition": "minecraft:value_check",
+            "value": {
+                "type" : "score",
+                "target": "this",
+                "score": "increment"
+            },
+            "range": 20
+        },
+        {
+            "condition": "minecraft:value_check",
+            "value": {
+                "type" : "score",
+                "target": "this",
+                "score": "increment"
+            },
+            "range": 23
+        },
+        {
+            "condition": "minecraft:value_check",
+            "value": {
+                "type" : "score",
+                "target": "this",
+                "score": "increment"
+            },
+            "range": 30
+        },
+        {
+            "condition": "minecraft:value_check",
+            "value": {
+                "type" : "score",
+                "target": "this",
+                "score": "increment"
+            },
+            "range": 34
+        },
+        {
+            "condition": "minecraft:value_check",
+            "value": {
+                "type" : "score",
+                "target": "this",
+                "score": "increment"
+            },
+            "range": 37
+        },
+        {
+            "condition": "minecraft:value_check",
+            "value": {
+                "type" : "score",
+                "target": "this",
+                "score": "increment"
+            },
+            "range": 39
+        },
+        {
+            "condition": "minecraft:value_check",
+            "value": {
+                "type" : "score",
+                "target": "this",
+                "score": "increment"
+            },
+            "range": 50
+        }
+    ]
+}

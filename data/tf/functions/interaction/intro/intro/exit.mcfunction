@@ -9,3 +9,4 @@ function tf:display/char/sylvie-sit
 function tf:display/bg/room
 scoreboard players add @s trust-internal 1
 scoreboard players set @s increment 0 
+data modify storage tf:player.data name.current set value -
