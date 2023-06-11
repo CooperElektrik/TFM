@@ -33,3 +33,5 @@ data modify storage tf:settings noTimeIncrement set value 0
 data modify storage tf:settings enableDelayedUpdate set value 1
 #Force better chat visibility
 data modify storage tf:settings enforceChatVisibility set value 0
+#Output verbose error where possible
+data modify storage tf:settings verbose set value 0

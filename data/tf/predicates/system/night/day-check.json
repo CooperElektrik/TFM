@@ -1,0 +1,23 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:value_check",
+        "value": {
+          "type": "minecraft:score",
+          "target": "this",
+          "score": "day"
+        },
+        "range": 0
+      },
+      {
+        "condition": "minecraft:value_check",
+        "value": {
+          "type": "minecraft:score",
+          "target": "this",
+          "score": "day"
+        },
+        "range": 2
+      }
+    ]
+  }

@@ -6,3 +6,4 @@ execute if data storage tf:settings {performanceMode:1} run tellraw @a {"text": 
 execute if data storage tf:settings {lowResMK128:1} run tellraw @a {"text": "Display Downscaling is enabled. Still requires an area of 256x170.","color": "aqua"}
 execute if data storage tf:settings {enableDelayedUpdate:0} run tellraw @a {"text": "Delayed update disabled.","color": "aqua"}
 execute if data storage tf:settings {enforceChatVisibility:1} run tellraw @a {"text": "Chat visibility is enforced.","color": "aqua"}
+execute if data storage tf:settings {verbose:1} run tellraw @a {"text": "Verbose enabled.","color": "aqua"}
