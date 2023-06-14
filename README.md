@@ -1,6 +1,8 @@
 # Teaching Feeling
 
-An attempt of recreating TF in Minecraft. There will be bugs. You should buy the game to support the creators.
+An attempt of recreating the game in Minecraft. 
+There will be bugs. 
+You should buy the game to support the creators.
 
 ## Intended use
 
@@ -8,7 +10,7 @@ For educational purposes only.
 
 ## Image files
 
-Stored as functions. Use command to draw these images.
+Stored as functions. Use command to draw them.
 
 ## Disclaimer
 
