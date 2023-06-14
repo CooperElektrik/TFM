@@ -7,5 +7,4 @@ function tf:display/bg/room
 scoreboard players add @s trust-internal 1
 scoreboard players set @s increment 0
 tellraw @s {"text": ""}
-tellraw @s {"text": ""}
 tellraw @s {"text": "Good morning, Master."}

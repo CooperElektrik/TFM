@@ -1,6 +1,6 @@
 execute store result storage tf:save increment int 1 run scoreboard players get @s increment
 execute store result storage tf:save increment int 1 run scoreboard players get @s increment
-execute store result storage tf:save day int 1 run scoreboard players get @s day
+execute store result storage tf:save day int 1 run scoreboard players get day increment
 execute store result storage tf:save time int 1 run scoreboard players get @s time
 execute store result storage tf:save intimacy int 1 run scoreboard players get @s intimacy
 execute store result storage tf:save trust int 1 run scoreboard players get @s trust

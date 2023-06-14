@@ -59,4 +59,4 @@ scoreboard players set @a p-interact 0
 clear @a filled_map
 
 #loop
-schedule function system:interaction 1t
+schedule function system:master-interaction 1t

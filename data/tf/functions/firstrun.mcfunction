@@ -1,7 +1,7 @@
 #First run, will add scoreboards and initialise things
 tellraw @a {"text": "First run!", "color": "green"}
 function tf:add-scoreboards
-function system:interaction
+function system:master-interaction
 function tf:settings
 function tf:dialogues/lang/handler
 #for some reason the entire code for dialogue falls apart when the player.name value is blank
