@@ -1,0 +1,1 @@
+$execute as @a[nbt={SelectedItem:{id:"minecraft:map",tag:{display:{Name:'{"text":"$(name)"}'}}}}] run scoreboard players set @s interaction $(number)
