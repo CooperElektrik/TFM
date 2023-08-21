@@ -1,4 +1,4 @@
-function tf:display/clear/bg
+function display:clear/bg
 fill 0 170 0 0 125 0 gray_concrete
 fill 1 170 0 1 122 0 gray_concrete
 fill 2 170 0 2 91 0 gray_concrete

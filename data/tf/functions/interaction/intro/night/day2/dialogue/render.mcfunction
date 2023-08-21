@@ -1,2 +1,2 @@
-execute if score @s interaction matches 1 run function tf:display/bg/room
-execute if score @s interaction matches 1 run function tf:display/char/sylvie-stand
+execute if score @s interaction matches 1 run function display:bg/room
+execute if score @s interaction matches 1 run function display:char/sylvie-stand

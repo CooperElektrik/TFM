@@ -1,4 +1,4 @@
-function tf:display/clear/bg
+function display:clear/bg
 fill 0 169 0 23 169 0 gray_concrete
 fill 24 169 0 24 169 0 gray_terracotta
 fill 25 169 0 25 168 0 gray_concrete
