@@ -1,7 +1,6 @@
 #First run, will add scoreboards and initialise things
 tellraw @a {"text": "First run!", "color": "green"}
 function tf:add-scoreboards
-execute if data storage tf:data {version:202} run function system:master-interaction
 function tf:settings
 function tf:dialogues/lang/handler
 function system:master-interaction
