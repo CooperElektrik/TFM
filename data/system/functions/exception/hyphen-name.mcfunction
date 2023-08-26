@@ -1,2 +1,2 @@
-execute if data storage tf:player.data {player:{name:-}} run data modify storage tf:player.data player.name set value Gris
+execute if data storage tf:player.data {player: {name:-}} run data modify storage tf:player.data player.name set value Gris
 tellraw @a {"text": "EXCEPTION: Player name must not be a hyphen (-). The character is reserved.","color": "red"}

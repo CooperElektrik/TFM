@@ -8,4 +8,3 @@ function system:master-interaction
 tellraw @a {"text": "Using the default player name of Gris. Change it by /data modify storage tf:player.data player.name set value <your name>"}
 data modify storage tf:player.data player.name set value Gris
 data modify storage tf:data firstRun set value 1
-function system:exception/handler

@@ -5,11 +5,8 @@
         "condition": "minecraft:value_check",
         "value": {
           "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "chat"
-          },
-          "score": "increment"
+          "target": "this",
+          "score": "chat"
         },
         "range": 1
       },
@@ -17,11 +14,8 @@
         "condition": "minecraft:value_check",
         "value": {
           "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "chat"
-          },
-          "score": "increment"
+          "target": "this",
+          "score": "chat"
         },
         "range": {"min": 3,"max": 7}
       },
@@ -29,11 +23,8 @@
         "condition": "minecraft:value_check",
         "value": {
           "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "chat"
-          },
-          "score": "increment"
+          "target": "this",
+          "score": "chat"
         },
         "range": 9
       },
@@ -41,11 +32,8 @@
         "condition": "minecraft:value_check",
         "value": {
           "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "chat"
-          },
-          "score": "increment"
+          "target": "this",
+          "score": "chat"
         },
         "range": 11
       },
@@ -53,11 +41,8 @@
         "condition": "minecraft:value_check",
         "value": {
           "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "chat"
-          },
-          "score": "increment"
+          "target": "this",
+          "score": "chat"
         },
         "range": {"min": 13,"max": 14}
       },
@@ -65,11 +50,8 @@
         "condition": "minecraft:value_check",
         "value": {
           "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "chat"
-          },
-          "score": "increment"
+          "target": "this",
+          "score": "chat"
         },
         "range": {"min": 16,"max": 18}
       }

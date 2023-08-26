@@ -1,9 +1,9 @@
 clear @a
 item replace entity @a hotbar.4 with map{display:{Name:'{"text":"Start"}'}}
-scoreboard players set chat increment 0
+scoreboard players set @s chat 0
 scoreboard players set pat increment 0
 scoreboard players set @s increment 0
-scoreboard players set day increment 0
+scoreboard players set @s day 0
 scoreboard players set @s time 0
 scoreboard players set @s increment 0
 data modify storage tf:player.data storage set value 0

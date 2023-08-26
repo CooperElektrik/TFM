@@ -5,11 +5,8 @@
         "condition": "minecraft:value_check",
         "value": {
           "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "chat"
-          },
-          "score": "increment"
+          "target": "this",
+          "score": "chat"
         },
         "range": 2
       },
@@ -17,11 +14,8 @@
         "condition": "minecraft:value_check",
         "value": {
           "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "chat"
-          },
-          "score": "increment"
+          "target": "this",
+          "score": "chat"
         },
         "range": 4
       },
@@ -29,11 +23,8 @@
         "condition": "minecraft:value_check",
         "value": {
           "type": "minecraft:score",
-          "target": {
-            "type": "minecraft:fixed",
-            "name": "chat"
-          },
-          "score": "increment"
+          "target": "this",
+          "score": "chat"
         },
         "range": 13
       }
